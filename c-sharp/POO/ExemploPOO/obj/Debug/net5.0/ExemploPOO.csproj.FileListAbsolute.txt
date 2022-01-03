@@ -1,0 +1,16 @@
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.csproj.AssemblyReference.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.AssemblyInfoInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.AssemblyInfo.cs
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/bin/Debug/net5.0/ExemploPOO
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/bin/Debug/net5.0/ExemploPOO.deps.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/bin/Debug/net5.0/ExemploPOO.runtimeconfig.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/bin/Debug/net5.0/ExemploPOO.runtimeconfig.dev.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/bin/Debug/net5.0/ExemploPOO.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/bin/Debug/net5.0/ref/ExemploPOO.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/bin/Debug/net5.0/ExemploPOO.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ref/ExemploPOO.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/POO/ExemploPOO/obj/Debug/net5.0/ExemploPOO.genruntimeconfig.cache

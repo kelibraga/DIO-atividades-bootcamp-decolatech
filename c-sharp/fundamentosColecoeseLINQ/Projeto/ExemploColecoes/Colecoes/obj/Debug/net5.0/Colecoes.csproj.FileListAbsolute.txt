@@ -1,0 +1,16 @@
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/bin/Debug/net5.0/Colecoes
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/bin/Debug/net5.0/Colecoes.deps.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/bin/Debug/net5.0/Colecoes.runtimeconfig.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/bin/Debug/net5.0/Colecoes.runtimeconfig.dev.json
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/bin/Debug/net5.0/Colecoes.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/bin/Debug/net5.0/ref/Colecoes.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/bin/Debug/net5.0/Colecoes.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.csproj.AssemblyReference.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.AssemblyInfoInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.AssemblyInfo.cs
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.csproj.CoreCompileInputs.cache
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/ref/Colecoes.dll
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.pdb
+/home/keli/decolatech/DIO-atividades-bootcamp-decolatech/c-sharp/fundamentosColecoeseLINQ/Projeto/ExemploColecoes/Colecoes/obj/Debug/net5.0/Colecoes.genruntimeconfig.cache

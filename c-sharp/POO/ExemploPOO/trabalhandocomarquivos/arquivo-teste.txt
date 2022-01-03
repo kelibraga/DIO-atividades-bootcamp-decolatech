@@ -1,0 +1,3 @@
+Olá! Teste de escrita de arquivo
+ok ok
+
